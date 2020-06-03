@@ -3,10 +3,10 @@ This project does exploratory data analysis on a given dataset for binary classi
 This project also includes results.csv files which gives the predictions on the unseen test data using each of the two best performing trained models [in this case, neural network and SVC performed well].  The predictions should be the class probabilities for belonging to the positive class (labeled '1').  
 
 Learning outcome:
-1.Selection of a ML algorithm for a given task.
-2.End-to-end of data science project pipeline from data cleaning till model evaluation.
-3.Innovative methods for data cleaning and feature augmentation.
-4.Structuring a machine learning project. 
+1.Structuring a machine learning project. 
+2.Selection of a ML algorithm for a given task.
+3.End-to-end of data science project pipeline from data cleaning till model evaluation.
+4.Innovative methods for data cleaning and feature augmentation.
 
 Project CODE files:
 The html files of the 2 jupyter notebooks used are:
